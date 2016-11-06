@@ -1,0 +1,94 @@
+.img-circle {
+  width: 200px;
+  height: auto;
+}
+
+.about {
+  font-size: 14px;
+  margin-bottom: 5px;
+  padding-left: 22px;
+  position: relative;
+}
+
+
+.about .fa {
+  font-size: 14px;
+  left: 0;
+  line-height: 21px;
+  margin-bottom: 5px;
+  opacity: .5;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  width: 16px;
+}
+
+
+.card-title {
+  color: #ff3399;
+  font-weight: 600;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar{
+  background:#ff6666;
+}
+
+/* profile.css */
+html {
+  background-color: #f5f7f9;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
+
+.navbar {
+  background: #e16879;
+}
+
+.btn {
+  font-weight: 300;
+}
+
+.btn-primary {
+  background: #e16879;
+  border-color: #e16879;
+}
+
+.btn-primary:hover,
+.btn-primary:active,
+.btn-primary:focus,
+.btn-primary:active:focus {
+  background: #e05164;
+  border-color: #e05164;
+}
+
+
+/* Additional stuff for index.html page */
+.jumbotron {
+  background-image: url("../img/drawing1.jpg");
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+.display-1{
+  color:white;
+  font-size: xx-large;
+}
+
+.display-3{
+  color:white;
+  font-size: xx-large;
+
+}
